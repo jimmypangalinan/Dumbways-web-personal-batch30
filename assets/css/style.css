@@ -227,7 +227,7 @@ tr:nth-child(even) {
 }
 
 .form{
-    background-color: hotpink;
+    /* background-color: hotpink; */
     width: 500px;
     margin: auto;
     /* display: flex; */
